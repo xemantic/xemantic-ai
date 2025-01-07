@@ -7,7 +7,7 @@ Group: [com.xemantic.ai](https://central.sonatype.com/namespace/com.xemantic.ai)
 
 * [claudine](https://github.com/xemantic/claudine): The only AI assistant you will ever need. An AI agent, which is using your machine as a window to external world, therefore perceiving your reality, values and needs, and reasoning how to fulfill them.
 * [anthropic-sdk-kotlin](https://github.com/xemantic/anthropic-sdk-kotlin): Unofficial Kotlin-multiplatform version of Anthropic SDK with some extra features.
-* [anthropic-sdk-kotlin-demo](https://github.com/xemantic/anthropic-sdk-kotlin-demo): Examples `anthropic-sdk-kotlin` use, good for educational purposes.
+* [anthropic-sdk-kotlin-demo](https://github.com/xemantic/anthropic-sdk-kotlin-demo): Examples of `anthropic-sdk-kotlin` use, good for educational purposes.
 * [anthropic-sdk-kotlin-jvm-template](https://github.com/xemantic/anthropic-sdk-kotlin-jvm-template): A template repository to use `anthropic-sdk-kotlin` straight away in JVM environment (needs to be updated).
 * [claude-ai-artist](https://github.com/xemantic/claude-ai-artist): Claude AI generating computational art in a feedback loop process - a study of machine reasoning on aesthetics.
 * [xemantic-ai-tool-schema](https://github.com/xemantic/xemantic-ai-tool-schema): AI/LLM tool use (function calling) JSON Schema generator.
