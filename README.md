@@ -15,6 +15,7 @@ Group: [com.xemantic.ai](https://central.sonatype.com/namespace/com.xemantic.ai)
 * [xemantic-ai-file-magic](https://github.com/xemantic/xemantic-ai-file-magic): Detecting file media type before submitting binary content to LLM.
 * [xemantic-ai-money](https://github.com/xemantic/xemantic-ai-money): Real-time calculation of LLM usage costs.
 * [xemantic-ai-markdown](https://github.com/xemantic/xemantic-ai-markdown): Streaming Markdown to HTML and HTML to Markdown transformer for Kotlin multiplatform (in progress).
+* [xemantic-ai-text-diff](https://github.com/xemantic/xemantic-ai-text-diff): Detects differences in text and presents them in the way processable by LLMs, a Kotlin multiplatform library.
 * [cerebras-cloud-sdk-kotlin](https://github.com/xemantic/cerebras-cloud-sdk-kotlin): Unofficial Kotlin multiplatform variant of the Cerebras API (Cloud SDK) (in progress).
 
 ## List of general projects supporting these AI projects
