@@ -23,6 +23,6 @@ Group: [com.xemantic.ai](https://central.sonatype.com/namespace/com.xemantic.ai)
 * [xemantic-ai-text-diff](https://github.com/xemantic/xemantic-ai-text-diff): Detects differences in text and presents them in the way processable by LLMs, a Kotlin multiplatform library (in progress).
 * [cerebras-cloud-sdk-kotlin](https://github.com/xemantic/cerebras-cloud-sdk-kotlin): Unofficial Kotlin multiplatform variant of the Cerebras API (Cloud SDK) (in progress).
 
-## List of general projects supporting these AI projects
+## List of other Xemantic projects supporting Xemantic AI projects
 
 * [xemantic-kotlin-test](https://github.com/xemantic/xemantic-kotlin-test): The power-assert compatible assertions DSL and some other testing goodies.
