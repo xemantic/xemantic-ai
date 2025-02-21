@@ -3,8 +3,8 @@ An umbrella project for all the AI tools developed by [Xemantic](https://xemanti
 
 See [Xemantic AI](https://xemantic.com/ai/) page for the whole context.
 
-> [!NOTE]
-> In February/March 2025 we are offering several editions of the 1-day [Agentic AI & Creative Coding workshop](https://xemantic.com/ai/workshops/) in Berlin, which allows participants to learn how to build powerful autonomous AI agents using Kotlin open source libraries developed by Xemantic.
+> [!IMPORTANT]
+> 🤖 **Build Your Own AI Agents** - Join our one-day Agentic AI & Creative Coding Workshop in Berlin (Spring 2025), led by AI hack Berlin hackathon winner Kazik Pogoda. Learn to create autonomous AI agents using Anthropic API, engineer advanced prompts, and give your agents tools to control machines. Workshops run Tuesdays (Feb 25 - Mar 25) at Prachtsaal Berlin, limited to 15 participants. 150 EUR contribution supports open source development (solidarity access available, no questions asked). All examples use Kotlin (crash course included) but focus on meta-principles of AI agent development. Details: <https://xemantic.com/ai/workshops>
 
 ## List of Xemantic AI projects
 
